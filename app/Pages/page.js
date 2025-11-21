@@ -12,11 +12,7 @@ export default function ChefsPage() {
             <option>English</option>
           
           </select>
-          <div className="flex gap-2">
-            <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" className="hidden md:block w-4 h-4" /></a>
-            <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" className="hidden md:block w-4 h-4" /></a>
-            <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" className="hidden md:block w-4 h-4" /></a>
-          </div>
+          
         </div>
       </div>
 
